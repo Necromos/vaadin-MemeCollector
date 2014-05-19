@@ -1,4 +1,4 @@
-package com.project.memecollector.data;
+package com.project.memecollector;
 
 import java.io.Serializable;
 
